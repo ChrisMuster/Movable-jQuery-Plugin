@@ -1,0 +1,95 @@
+#square {
+	width: 50px;
+	height: 50px;
+	border: 2px solid black;
+	background-color: DarkRed;
+	z-index: 1;
+}
+
+table {
+	padding: 3px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr {
+	height: 32px;
+}
+
+td {
+	width: 32px;
+}
+
+p {
+	margin: 0px;
+	clear: both;
+}
+
+h4 {
+	text-align: center;
+	margin: 3px;
+}
+
+h6 {
+	margin: 0px;
+	color: DarkRed;
+}
+
+#distance {
+	margin-bottom:  5px;
+	border: 2px solid DarkRed;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+#rotation {
+	margin-bottom:  5px;
+	border: 2px solid DarkRed;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+#setControls {
+	text-align: center;
+	width: 250px;
+}
+
+.keySet {
+	width: 20px;
+	height: 20px;
+	float: right;
+	border: 2px solid DarkRed;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+.column {
+	float: left;
+	width: 45%;
+	padding: 3px;
+}
+
+.margin3 {
+	margin-bottom: 3px;
+	clear: both;
+}
+
+.margin5 {
+	margin-bottom: 5px;
+	clear: both;
+}
+
+#submit {
+	background-color: white;
+	color: DarkRed;
+	font-weight: bold;
+	border: 2px solid DarkRed;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin-bottom: 5px;
+}
+
+#submit:hover {
+	background-color: DarkRed;
+	color: white;
+}
